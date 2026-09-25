@@ -1,11 +1,11 @@
 # Research questions shown on the home page. Edit them here.
 
 # Heading of the research section.
-overarching: "What are future work-based pathways to expertise?"
+overarching: "The future of work-based pathways to expertise"
 
 # The question under each research area card's title, keyed by the file name in _research/.
 areas:
   work: "What is computing work in the “age of AI”?"
   employment: "How can people obtain secure employment?"
-  learning: "What is situated knowledge of computing?"
-  labor: "What are the labor conditions surrounding computing work?"
+  learning: "How do people know computing through work?"
+  labor: "What labor conditions surround computing work?"
