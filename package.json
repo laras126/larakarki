@@ -1,0 +1,14 @@
+{
+  "name": "larakarki",
+  "private": true,
+  "scripts": {
+    "build:css": "tailwindcss -i assets/css/tailwind.css -o assets/css/main.css --minify",
+    "watch:css": "tailwindcss -i assets/css/tailwind.css -o assets/css/main.css --watch",
+    "dev": "npm run watch:css & bundle exec jekyll serve --livereload",
+    "build": "npm run build:css && JEKYLL_ENV=production bundle exec jekyll build"
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.1.0",
+    "tailwindcss": "^4.1.0"
+  }
+}

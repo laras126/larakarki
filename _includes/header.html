@@ -1,0 +1,17 @@
+<header class="border-b-4 border-accent bg-ink text-paper">
+  <div class="container-wide flex flex-col gap-3 py-5 sm:flex-row sm:items-center sm:justify-between">
+    <div class="flex flex-wrap items-baseline gap-x-4 gap-y-1">
+      <p class="text-2xl font-bold tracking-tight">
+        <a href="{{ '/' | relative_url }}" class="hover:text-mist" {% if page.url == '/' %}aria-current="page"{% endif %}>{{ site.title }}</a>
+      </p>
+      <p class="text-lg font-light italic text-muted">{{ site.tagline }}</p>
+    </div>
+    <nav aria-label="Main">
+      <ul class="flex flex-wrap gap-x-6 gap-y-2 text-lg">
+        {% for item in site.nav %}
+        <li><a href="{{ item.url | relative_url }}" class="decoration-accent decoration-2 underline-offset-4 hover:underline">{{ item.label }} <span aria-hidden="true">↗</span></a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </div>
+</header>

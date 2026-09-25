@@ -1,0 +1,63 @@
+title: Lara Karki
+tagline: Broadening Access to Computing Careers
+description: >-
+  I am a PhD student in Human-Centered Computing at Georgia Tech where I study
+  access to computing careers through community-engaged research.
+url: "https://larakarki.com"
+baseurl: ""
+lang: en-US
+image: /assets/images/profile-image.jpg
+
+author:
+  name: Lara Karki
+  # Shown obfuscated on the page to deter scrapers.
+  email_display: "lschenck3[at]gatech.edu"
+
+# Header navigation
+nav:
+  - label: notlaura.com
+    url: "http://notlaura.com/"
+  - label: CV
+    url: "/assets/files/2026-CV-LKarki.pdf"
+
+# Contact section links
+links:
+  - text: "Connect with me"
+    label: "on LinkedIn"
+    url: "https://linkedin.com/in/notlaura"
+  - text: "View"
+    label: "my published work on Google Scholar"
+    url: "https://scholar.google.com/citations?hl=en&user=p6XFme4AAAAJ"
+  - text: "See"
+    label: "my CV"
+    url: "https://notlaura.com/cv"
+  - text: "Read more"
+    label: "about DataWorks"
+    url: "https://dataworkforce.gatech.edu/"
+  - text: "Browse content from"
+    label: "my industry persona"
+    url: "https://notlaura.com/"
+
+footer_emoji: "🇳🇵🚲 📊 ⚽️ 💕"
+
+# Research areas: one Markdown file per area in _research/, shown on the home page.
+collections:
+  research:
+    output: false
+    sort_by: order
+
+plugins:
+  - jekyll-seo-tag
+
+markdown: kramdown
+
+exclude:
+  - README.md
+  - DEPLOY.md
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - package-lock.json
+  - node_modules/
+  - vendor/
+  - assets/css/tailwind.css
