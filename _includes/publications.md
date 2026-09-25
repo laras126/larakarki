@@ -11,7 +11,7 @@ PDFs for published works can be found [on my Google Scholar page](https://schola
 
 ### 2027
 
-- **Lara Karki**, Aarti Israni, Kayla Uleah, Tawanna Dillahunt, Julie Hui, and Betsy DiSalvo. “Beyond the User vs. Builder Binary: Reframing Computing Work.” *Case study for GROUP 2027.*
+- **Lara Karki**, Aarti Israni, Kayla Uleah, Tawanna Dillahunt, Julie Hui, and Betsy DiSalvo. “Beyond the User vs. Builder Binary: Reframing Computing Work.” *Accepted Case Study for GROUP 2027.*
 
 ### 2026
 

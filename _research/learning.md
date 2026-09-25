@@ -1,7 +1,6 @@
 ---
-title: Learning
+title: Learning & Knowing
 order: 3
-lead: "How do people learn computing through work?"
 ---
 
 Learning through work is an effective and accessible way for adults to acquire technical skills. Workplace learning occurs through participation — often beginning with low-stakes tasks that require little prior knowledge. These on-the-job learning experiences are essential to developing domain expertise, but many employers aim to automate away this work without providing appropriate alternatives. In this research area, I study emergent curriculum design that evolves in response to learning which happens through seemingly mundane work tasks.

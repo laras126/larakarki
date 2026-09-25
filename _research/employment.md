@@ -1,7 +1,6 @@
 ---
 title: Employment
 order: 2
-lead: "A full-time job with benefits supports economic security."
 ---
 
 The labor market for these sorts of jobs is mediated by AI-driven platforms reinforcing social class-based privileges and disadvantages, requiring job seekers to have personal referrals and to build comprehensive personal brands to stand out. Job seekers without a referral must spend extensive time outside of work hours to apply to hundreds — if not thousands — of jobs. In this research area, I examine how job search platforms reinforce social class-based inequities, and how career development programs can support job seekers and scaffold the social capital needed to be recognized in the labor market.

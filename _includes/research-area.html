@@ -4,13 +4,14 @@
 {% endcomment %}
 {% assign parts = include.area.content | split: '<ul>' %}
 {% assign pub_count = include.area.content | split: '<li>' | size | minus: 1 %}
+{% assign question = site.data.research_questions.areas[include.area.slug] %}
 <article id="{{ include.area.slug }}" class="research-area flex flex-col rounded-2xl border-t-4 border-accent bg-paper/[0.04] p-6 ring-1 ring-paper/10 md:p-8">
   <div class="mb-5 flex items-center justify-between gap-4">
     <h3 class="text-2xl font-bold tracking-tight text-paper md:text-3xl">{{ include.area.title }}</h3>
     <span class="text-3xl font-bold tracking-tight text-accent tabular-nums md:text-4xl" aria-hidden="true">{{ include.area.order | prepend: '0' | slice: -2, 2 }}</span>
   </div>
-  {% if include.area.lead %}
-  <p class="area-lead mb-4 font-serif text-xl leading-snug text-paper md:text-2xl">{{ include.area.lead }}</p>
+  {% if question %}
+  <p class="area-lead mb-4 text-xl leading-snug text-paper md:text-2xl">{{ question }}</p>
   {% endif %}
   <div class="area-body">{{ parts[0] }}</div>
   {% if parts.size > 1 %}
