@@ -1,7 +1,7 @@
 ---
-title: Computing Work
+title: Work
 order: 1
-lead: "When you think of a computing worker, who do you picture?"
+lead: "Who does computing work? What does it look like?"
 ---
 
 For many people, computing work is software development. Today, however, people are building computing systems in all kinds of jobs, using tools that don’t look like the text-based programming languages typical of software development. In my research, I found these workers and their work are not seen as legitimate in the broader computing community. My current and future work characterizes computing work, knowledge, and career pathways from the perspective that, today, all work is in some way computing work, but the majority of it is not recognized.

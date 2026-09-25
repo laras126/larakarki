@@ -1,20 +1,13 @@
 {% comment %}
   Renders one _research/*.md entry. The description paragraph(s) stay visible;
   the citation list (the first <ul> in the Markdown) is collapsed into an accordion.
-  Titles like "Computing Work" are split so the second word is the display word.
 {% endcomment %}
 {% assign parts = include.area.content | split: '<ul>' %}
 {% assign pub_count = include.area.content | split: '<li>' | size | minus: 1 %}
-{% assign title_words = include.area.title | split: ' ' %}
-{% assign eyebrow = title_words | first %}
-{% assign display = title_words | shift | join: ' ' %}
 <article id="{{ include.area.slug }}" class="research-area flex flex-col rounded-2xl border-t-4 border-accent bg-paper/[0.04] p-6 ring-1 ring-paper/10 md:p-8">
-  <div class="mb-5 flex items-start justify-between gap-4">
-    <h3 class="text-3xl font-bold tracking-tight text-paper md:text-4xl">
-      <span class="mb-1 block font-sans text-sm font-semibold tracking-[0.2em] text-mist/70 uppercase">{{ eyebrow }}</span>
-      {{ display }}
-    </h3>
-    <span class="text-4xl font-bold tracking-tight text-accent tabular-nums md:text-5xl" aria-hidden="true">{{ include.area.order | prepend: '0' | slice: -2, 2 }}</span>
+  <div class="mb-5 flex items-center justify-between gap-4">
+    <h3 class="text-2xl font-bold tracking-tight text-paper md:text-3xl">{{ include.area.title }}</h3>
+    <span class="text-3xl font-bold tracking-tight text-accent tabular-nums md:text-4xl" aria-hidden="true">{{ include.area.order | prepend: '0' | slice: -2, 2 }}</span>
   </div>
   {% if include.area.lead %}
   <p class="area-lead mb-4 font-serif text-xl leading-snug text-paper md:text-2xl">{{ include.area.lead }}</p>

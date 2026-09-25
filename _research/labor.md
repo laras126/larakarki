@@ -1,5 +1,5 @@
 ---
-title: Computing Labor
+title: Labor
 order: 4
 lead: "In my work, I distinguish labor from work."
 ---

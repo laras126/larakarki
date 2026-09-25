@@ -2,7 +2,14 @@
 
 The site builds with GitHub Actions ([.github/workflows/pages.yml](.github/workflows/pages.yml)), not GitHub Pages' built-in Jekyll, because it uses Jekyll 4 and Tailwind. Every push to `main` rebuilds and redeploys the site.
 
-The domain's DNS and email are hosted at **May First** (mayfirst.org). You'll change the website records there and leave the email records alone.
+Who does what for larakarki.com:
+
+| Role | Company | What you do there |
+|---|---|---|
+| Domain registration and renewal | **WebzPro** (reseller for Realtime Register) | Renew the domain. It expires **2026-11-02**, so keep auto-renew on. Don't change the nameservers. |
+| DNS and email | **May First** (mayfirst.org) | Change the website records (step 6). Leave the email records alone. |
+
+WebzPro's "manage nameservers" page may show an empty field even though the registry has `a/b/c.ns.mayfirst.org` set. Don't save that form while it's blank.
 
 Replace `<username>` below with your GitHub username.
 

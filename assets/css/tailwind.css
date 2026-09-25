@@ -69,6 +69,24 @@
   .research-area a {
     @apply break-words underline decoration-accent underline-offset-2 hover:text-paper hover:decoration-current;
   }
+
+  /* Markdown output from _includes/publications.md: an intro paragraph, then a ### heading + list per group.
+     On wider screens each heading sits in a left column beside its list. */
+  .publications-list {
+    @apply grid gap-x-10 leading-relaxed md:grid-cols-[10rem_1fr];
+  }
+  .publications-list > p {
+    @apply mb-6 max-w-3xl text-lg md:col-span-2;
+  }
+  .publications-list h3 {
+    @apply mt-8 mb-3 text-xl font-bold tracking-tight text-accent-dark md:mb-0 md:pt-0.5;
+  }
+  .publications-list ul {
+    @apply max-w-3xl space-y-5 border-l-2 border-accent pl-5 md:mt-8;
+  }
+  .publications-list a {
+    @apply break-words font-medium text-accent-dark underline decoration-accent decoration-2 underline-offset-4 transition-colors hover:text-ink hover:decoration-current;
+  }
 }
 
 :focus-visible {

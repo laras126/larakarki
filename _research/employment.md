@@ -1,5 +1,5 @@
 ---
-title: Computing Employment
+title: Employment
 order: 2
 lead: "A full-time job with benefits supports economic security."
 ---
