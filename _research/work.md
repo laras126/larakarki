@@ -7,7 +7,7 @@ To many people, computing work is software development, and computing workers ar
 
 <!-- In my research, I found these workers and their work are not seen as legitimate in the broader computing community.  -->
 
-- **Karki, Lara**, Hannah Grosswieser, Eureka Wagner-Kobayashi, Ian P. Swift, Michael Muller, Dana Priest, Robert Wolf, Betsy DiSalvo. “The Post-Builder Perspective: Recognizing the Computing Work & Labor of Everyday People.” *Under review for CHI 2027.*
-- **Lara Karki**, Aarti Israni, Kayla Uleah, Tawanna Dillahunt, Julie Hui, and Betsy DiSalvo. 2026. “Beyond the User vs. Builder Binary: Reframing Computing Work.” *Accepted Case Study for GROUP 2027.*
-- **Lara Karki**, Aarti Israni, Tawanna Dillahunt, Julie Hui, Dana Priest, Asher Brown, and Betsy DiSalvo. 2026. “Recognizing, Supporting, and Futuring Diverse Pathways in Computing Work.” *CSCW 2025.* [PDF](https://doi.org/10.1145/3805029.3818267)
+- **Lara Karki**, Hannah Grosswieser, Eureka Wagner-Kobayashi, Ian P. Swift, Michael Muller, Dana Priest, Robert Wolf, and Betsy DiSalvo. “The Post-Builder Perspective: Recognizing the Computing Work & Labor of Everyday People.” *Under review for CHI 2027.*
+- **Lara Karki**, Aarti Israni, Kayla Uleah, Tawanna Dillahunt, Julie Hui, and Betsy DiSalvo. “Beyond the User vs. Builder Binary: Reframing Computing Work.” *Accepted Case Study for GROUP 2027.*
+- **Lara Karki**, Aarti Israni, Tawanna Dillahunt, Julie Hui, Asher Brown, Dana Priest, and Betsy DiSalvo. “Recognizing, Supporting, and Futuring Diverse Pathways in Computing Work.” *Workshop at CHIWORK 2026.* [PDF](https://dl.acm.org/doi/epdf/10.1145/3805029.3818267)
 - **Lara Karki**, Idel Martinez-Ramos, Sabine Verdult, Dana Priest, Asher Brown, Felienne Hermans, and Betsy DiSalvo. “Epistemologies of Programming.” *Manuscript in preparation.*
