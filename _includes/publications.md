@@ -2,7 +2,7 @@ PDFs for published works can be found [on my Google Scholar page](https://schola
 
 ### Under Review
 
-- **Lara Karki**, Hannah Grosswieser, Eureka Wagner-Kobayashi, Ian P. Swift, Michael Muller, Dana Priest, Robert Wolf, and Betsy DiSalvo. “The Post-Builder Perspective: Recognizing the Computing Work & Labor of Everyday People.” *Under review for CHI 2027.*
+- **Lara Karki**, Hannah Grosswieser, Eureka Wagner-Kobayashi, Ian P. Swift, Michael Muller, Dana Priest, Robert Wolfe, and Betsy DiSalvo. “The Post-Builder Perspective: Recognizing the Computing Work & Labor of Everyday People.” *Under review for CHI 2027.*
 
 ### In-Progress Work
 
