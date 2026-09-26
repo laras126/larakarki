@@ -7,7 +7,7 @@ PDFs for published works can be found [on my Google Scholar page](https://schola
 ### In-Progress Work
 
 - **Lara Karki**, Idel Martinez-Ramos, Sabine Verdult, Dana Priest, Asher Brown, Felienne Hermans, and Betsy DiSalvo. “Epistemologies of Programming.” *Manuscript in preparation.*
-- **Lara Karki**, Asher Brown, Dana Priest, Joshua Fortier, Briana Evans-Lopez, Oschaya Ellis, Justin Booker, and Betsy DiSalvo. “Sociotechnical Hiring Pipelines: Reckoning with Blind Spots.” *Manuscript in preparation.*
+- **Lara Karki**, Asher Brown, Dana Priest, Joshua Fortier, Briana Evans-Lopez, Oschaya Ellis, Justin Booker, and Betsy DiSalvo. “Research through Career Development.” *Manuscript in preparation.*
 
 ### 2027
 
