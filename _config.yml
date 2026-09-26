@@ -15,8 +15,6 @@ author:
 
 # Header navigation
 nav:
-  - label: notlaura.com
-    url: "http://notlaura.com/"
   - label: CV
     url: "/assets/files/2026-CV-LKarki.pdf"
 
@@ -30,7 +28,7 @@ links:
     url: "https://scholar.google.com/citations?hl=en&user=p6XFme4AAAAJ"
   - text: "See"
     label: "my CV"
-    url: "https://notlaura.com/cv"
+    url: "/assets/files/2026-CV-LKarki.pdf"
   - text: "Read more"
     label: "about DataWorks"
     url: "https://dataworkforce.gatech.edu/"
